@@ -3,12 +3,12 @@ import parcial from './components/parcial.vue'
 </script>
 
 <template>
-  <header>
-    <div class="wrapper">
-      <parcial msg="You did it!" />
-    </div>
-  </header>
+  <parcial/>
+
+  <p>respuestas: 1:C 2:C 3:A</p>
 </template>
+
+
 
 <style scoped>
 header {
